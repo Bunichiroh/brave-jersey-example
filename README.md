@@ -2,19 +2,15 @@
 
 Before building this program, please modify "ZIPKIN-SERVER" and "QUERY-PORT" to appropriate values in generateTrace.java.
 
-1) test
-
-mvn test
-
-2) compile
+1) compile
 
 mvn compile
 
-3) build package
+2) build package
 
 mvn package
 
-4) Start program
+3) Start program
 
 ./Exec.sh
 
