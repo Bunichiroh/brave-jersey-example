@@ -14,7 +14,7 @@ mvn package
 
 ./Exec.sh
 
-After starting the program, you can a obtain reposonse from http://localhost:9000/ like below.
+After starting the program, you can obtain a reposonse from http://localhost:9000/ like below.
 
 {"Time":"Fri Oct 13 00:41:18 EDT 2017"}
 
